@@ -36,11 +36,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fadhelnaufal&show_icons=true&theme=radical" alt="Fadhel's GitHub Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Fadhelnaufal&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fadhelnaufal&theme=radical)](https://git.io/streak-stats)
+
 
 
 ### ✨ Featured Projects
