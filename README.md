@@ -2,13 +2,11 @@
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100px" align="right" />
 
-🎓 **Final year student** at Universitas Negeri Malang majoring in Informatics Engineering Education, passionate about **Front-End Development**, **Web Development**, and **Data Analysis**.
+🎓 **Final year student** at Universitas Negeri Malang majoring in Informatics Engineering Education, passionate about **Front-End Development**, **Web Development**, and **Teaching and Learning Media Development**.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4B4B&center=true&vCenter=true&width=435&lines=Hi+I'm+Fadhel+Naufal+Akbar;Front-End+Dev+from+Indonesia;Lifelong+Learner+%F0%9F%8C%9F;Let's+build+awesome+things+together!+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
