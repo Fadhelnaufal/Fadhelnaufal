@@ -40,6 +40,9 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fadhelnaufal&theme=radical)](https://git.io/streak-stats)
+
+
 ### ✨ Featured Projects
 
 - 🚀 [Interactive Coding Media - Edmon](https://github.com/Fadhelnaufal/Edmon)  
