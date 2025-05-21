@@ -24,7 +24,7 @@
   - How to integrate gamification in learning platforms
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/fadhelnaufal/)
-  - Email: fadhelnaufal04@gmail.com
+  - Email: fadhelnaufal2@gmail.com
 
 ---
 
@@ -48,6 +48,11 @@
 
 ### ✨ Featured Projects
 
+
+
+
+
+
 - 🚀 [Interactive Coding Media - Edmon](https://github.com/Fadhelnaufal/Edmon)  
   Gamification-based live coding platform for web programming 📚
 
@@ -57,3 +62,13 @@
 ---
 
 ⭐️ _Feel free to connect and collaborate! Let's build something awesome together._
+
+### 🎮 Play a Simple Game!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
