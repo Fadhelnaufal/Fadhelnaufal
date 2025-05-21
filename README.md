@@ -21,10 +21,13 @@
 - 👯 I’m looking to collaborate on **educational tech** and **open-source web projects**.
 - 💬 Ask me about:
   - Laravel, React, and anything front-end
+  - Learning & Teaching Media
+  - learning approaches through digital-based media
   - How to integrate gamification in learning platforms
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/fadhelnaufal/)
   - Email: fadhelnaufal2@gmail.com
+  - [Instagram](https://www.instagram.com/in/badakmenyelam/)
 
 ---
 
