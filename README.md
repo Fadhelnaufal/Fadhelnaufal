@@ -1,6 +1,6 @@
-## Hi there I'm Fadhel Naufal Akbar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hi there I'm Fadhel Naufal Akbar! 
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100px" align="right" />
+<img src="img/header.png" width="200" /><br>
 
 🎓 **Final year student** at Universitas Negeri Malang majoring in Informatics Engineering Education, passionate about **Front-End Development**, **Web Development**, and **Teaching and Learning Media Development**.
 
