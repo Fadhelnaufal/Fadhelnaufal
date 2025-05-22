@@ -1,6 +1,6 @@
 ## Hi there I'm Fadhel Naufal Akbar! 
 
-<img src="img/header.png" width="200" /><br>
+<img src="img/header.png" width="100%" /><br>
 
 🎓 **Final year student** at Universitas Negeri Malang majoring in Informatics Engineering Education, passionate about **Front-End Development**, **Web Development**, and **Teaching and Learning Media Development**.
 
