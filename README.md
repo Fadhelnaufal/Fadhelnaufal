@@ -62,6 +62,9 @@
 - 🔬 [Sign Language Recognition](https://github.com/Fadhelnaufal/sign-language-recognition)  
   AI-powered tool for recognizing Indonesian Sign Language 🤟
 
+- 📚 [Pusdiglah - Perpustakaan Digital Sekolah](https://github.com/Fadhelnaufal/perpus_digital)  
+  Pusdiglah adalah aplikasi Perpustakaan Digital Sekolah berbasis Laravel dengan integrasi TailwindCSS dan Bootstrap.
+Aplikasi ini dirancang untuk memudahkan sekolah dalam manajemen buku, peminjaman, pengembalian, serta rekap data perpustakaan.📚 
 ---
 
 ⭐️ _Feel free to connect and collaborate! Let's build something awesome together._
